@@ -1,0 +1,23 @@
+{
+  "name": "Colorful Dashboard Theme",
+  "dataColors": ["#FF6F61", "#6B5B95", "#88B04B", "#F7CAC9", "#92A8D1", "#955251"],
+  "background": "#F0F8FF", 
+  "foreground": "#000000",
+  "tableAccent": "#FF6F61",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": { "solid": { "color": "#222222" } },
+        "fontSize": { "value": 12 },
+        "titleText": {
+          "color": { "solid": { "color": "#333333" } },
+          "fontSize": 14,
+          "fontFamily": "Segoe UI"
+        },
+        "labels": {
+          "color": { "solid": { "color": "#333333" } }
+        }
+      }
+    }
+  }
+}
